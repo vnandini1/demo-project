@@ -1,5 +1,1 @@
-At the top of the app, click Current Branch and then in the list of branches, click the branch that you want to base your new branch on.
-Click New Branch.
-Under Name, type the name of the new branch.
-Use the drop-down to choose a base branch for your new branch.
-Click Create Branch.
+dummy valueeeeeeeeeeeeeeeeeeeeeee
